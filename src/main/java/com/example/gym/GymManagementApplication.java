@@ -8,7 +8,7 @@ public class GymManagementApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GymManagementApplication.class, args);
-		System.out.println("GYM STARTED!!!");
+		System.out.println("GYM STARTED!!!"); 
 	}
 
 }
